@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZSet Lang Playground</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/playground.css">
+    <script src="https://unpkg.com/zset-lang@latest/dist/zset-lang.min.js"></script>
+    <script src="/js/playground.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <h1>ZSet Lang Playground</h1>
+        <nav>
+            <a href="/index.html">Home</a>
+            <a href="/docs">Documentation</a>
+            <button id="run">Run</button>
+            <button id="export">Export</button>
+            <button id="share">Share</button>
+        </nav>
+    </header>
+    <main>
+        <section class="editor">
+            <div id="lines" class="lines-number">
+            </div>
+            <textarea id="input"></textarea>
+        </section>
+    </main>
+    <footer>
+        <p>Output</p>
+        <div id="output" class="output"></div>
+    </footer>
+    <dialog id="modalshare">
+        <div class="modal-share">
+        <h3>Copy the link below</h3>
+        <input id="modallink" type="text" readonly>
+        <div>
+            <button id="modalcopy">Copy</button>
+            <button id="modalclose">Close</button>
+        </div>
+    </div>
+    </dialog>
+</body>
+
+</html>

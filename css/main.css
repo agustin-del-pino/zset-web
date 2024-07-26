@@ -1,0 +1,36 @@
+body {
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+main {
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 30px;
+}
+h2 {
+    font-size: 20px;
+    padding: 30px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+code {
+    border-radius: 5px;
+    font-family: Consolas,"Courier New",monospace;
+    max-width: fit-content;
+    margin: 20px auto;
+    text-align: initial;
+    display: block;
+    padding: 30px;
+    white-space: pre-line;
+    background-color: #212121;
+}
