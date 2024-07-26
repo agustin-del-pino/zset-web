@@ -1,0 +1,7 @@
+description: Math expression processor language for solve congruence equations
+footer-links:
+  github: agustin-del-pino
+
+exclude:
+  - LICENSE
+  - README.md

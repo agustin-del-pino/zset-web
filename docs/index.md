@@ -62,4 +62,4 @@ $$
 \forall c \in a: c \leftrightarrow T
 $$
 
-*Run this example on the [Playground](agustin-del-pino.github.io/playground.html?run=YSA9IHtbIHg6CiDEhisxIGNvbmcgMTIgKDE3KSzEiSA4KnjEjsSQxJIzN8SWMTAxKQpdfQpzxIEgcmXEr2EKxKDEgsSybSBzWzBdCkBwcmludCjEvMS+LMSGxYpmb3JhbGzEjiDFhCBhOsWTZXF1xZAgdHJ1ZSk=).*
+*Run this example on the [Playground](https://agustin-del-pino.github.io/playground.html?run=YSA9IHtbIHg6CiDEhisxIGNvbmcgMTIgKDE3KSzEiSA4KnjEjsSQxJIzN8SWMTAxKQpdfQpzxIEgcmXEr2EKxKDEgsSybSBzWzBdCkBwcmludCjEvMS+LMSGxYpmb3JhbGzEjiDFhCBhOsWTZXF1xZAgdHJ1ZSk=).*
